@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Str8Rogue16
 - 👀 I’m interested in hacking and learning communications between radio waves on the ground as well as in the sky. 
-- 🌱 I’m currently workig through Python, AI/ML, and  dabbling with JavaScript.  
+- 🌱 I’m currently workig through Python, AI/ML, and .NET Frameworks.  
 - 💞️ I’m looking to collaborate on anything that will push my brain to the max to fully understand. 
 - 📫 How to reach me on Twitter is the best way @Str8Rogue16!
 
