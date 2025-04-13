@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @Str8Rogue16
-- 👀 I’m interested in hacking and learning communications between radio waves on the ground as well as in the sky. 
-- 🌱 I’m currently working with Python and .NET Frameworks. Intent on building my own LLM. 
-- 💞️ I’m looking to collaborate on anything that will push my brain to the max to fully understand. 
-- 📫 How to reach me on Twitter is the best way @Str8Rogue16!
+👋 Hello, I’m @Str8Rogue16
+
+🔍 I specialize in OSINT and actively studying radio frequency communications, with a focus on both terrestrial and airborne signal interception.
+
+🧠 Passionate about cybersecurity, signal intelligence, and pushing the boundaries of digital reconnaissance.
+
+💻 Working extensively with Python and building robust applications using the .NET framework, while also developing my own Large Language Model (LLM).
+
+🤝 Open to collaborating on advanced research, tooling, or projects that demand critical thinking and deep exploration.
+
+📫 Connect with me on Twitter: @Str8Rogue16
 
 <!---
 Str8Rogue16/Str8Rogue16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
