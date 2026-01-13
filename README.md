@@ -1,6 +1,6 @@
 👋 Hello, I’m @Str8Rogue16
 
-🔍 I specialize in OSINT and actively studying radio frequency communications, with a focus on both terrestrial and airborne signal interception.
+🔍 I specialize in OSINT and have been working to learn more tricks to the trade.
 
 🧠 Passionate about cybersecurity, signal intelligence, and pushing the boundaries of digital reconnaissance.
 
