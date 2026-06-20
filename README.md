@@ -23,7 +23,7 @@ Custom automation scripts, digital reconnaissance tooling, and open-source intel
 ---
 
 ### 🛠️ Current Projects & Lab Work
-* **[* **[Predictive Axis Group]** - Developing core Python infrastructure and backend automation frameworks to drive predictive intelligence and data aggregation.
+* **[Predictive Axis Group]** - Developing core Python infrastructure and backend automation frameworks to drive predictive intelligence and data aggregation.
 
 ---
 
