@@ -23,8 +23,7 @@ Custom automation scripts, digital reconnaissance tooling, and open-source intel
 ---
 
 ### 🛠️ Current Projects & Lab Work
-* **[Project Name]** - A concurrent Python-based OSINT scraper designed to map digital footprints efficiently using `asyncio`.
-* **[Project Name]** - Custom automation scripts for API data extraction and threat intelligence ingestion.
+* **[* **[Predictive Axis Group]** - Developing core Python infrastructure and backend automation frameworks to drive predictive intelligence and data aggregation.
 
 ---
 
