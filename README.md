@@ -2,9 +2,9 @@
 
 🔍 I specialize in OSINT and have been working to learn more tricks to the trade.
 
-🧠 Passionate about cybersecurity, signal intelligence, and pushing the boundaries of digital reconnaissance.
+🧠 Passionate about cybersecurity and pushing the boundaries of digital reconnaissance.
 
-💻 Working extensively with Python and building robust applications using the .NET framework, while also developing my own Large Language Model (LLM).
+💻 Working extensively with Python at the moment to build various tools!
 
 🤝 Open to collaborating on advanced research, tooling, or projects that demand critical thinking and deep exploration.
 
